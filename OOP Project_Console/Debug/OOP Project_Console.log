@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(309): warning C4018: '<': signed/unsigned mismatch
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(321): warning C4018: '<': signed/unsigned mismatch
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(350): warning C4018: '<': signed/unsigned mismatch
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(355): warning C4018: '<': signed/unsigned mismatch
+c:\users\cdc\desktop\oop project_console\oop project_console\source.cpp(344): warning C4715: 'login': not all control paths return a value
+LINK : fatal error LNK1168: cannot open C:\Users\CDC\Desktop\OOP Project_Console\Debug\OOP Project_Console.exe for writing
